@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891642458332",
+    "firebase_url": "https://currancy-coverter.firebaseio.com",
+    "project_id": "currancy-coverter",
+    "storage_bucket": "currancy-coverter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891642458332:android:bab3ab69c0d94148700419",
+        "android_client_info": {
+          "package_name": "com.currancyconverter.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891642458332-e642emuq0kpv9kpo090ma22gv522qqnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNm0H2I6IWATEs_PP23pgbN9ZSw_ObsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891642458332-e642emuq0kpv9kpo090ma22gv522qqnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
